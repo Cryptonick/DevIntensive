@@ -16,4 +16,12 @@
     <dimen name="spacing_large_56">56dp</dimen>
     <dimen name="spacing_larger_72">72dp</dimen>
 
+    <!--Typography-->
+    <dimen name="typography_small_12">12sp</dimen>
+    <dimen name="typography_normal_14">14sp</dimen>
+    <dimen name="typography_medial_16">16sp</dimen>
+    <dimen name="typography_medium_20">20sp</dimen>
+    <dimen name="typography_large_34">34sp</dimen>
+    <dimen name="typography_larger_56">56sp</dimen>
+
 </resources>
